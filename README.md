@@ -50,7 +50,7 @@ Vous pouvez personnaliser le script pour mieux répondre à vos besoins. Par exe
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence MIT. 
 
 ---
 
